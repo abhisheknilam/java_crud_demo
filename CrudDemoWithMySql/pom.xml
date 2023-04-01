@@ -74,12 +74,12 @@
     <repository>
         <id>central</id>
         <name>a0tzrjiviemex-artifactory-primary-0-releases</name>
-        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo-1</url>
+        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo-2</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>a0tzrjiviemex-artifactory-primary-0-snapshots</name>
-        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo-1</url>
+        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo-2</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
