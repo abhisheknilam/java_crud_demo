@@ -73,13 +73,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0pmskevvca33-artifactory-primary-0-releases</name>
-        <url>https://devops2022.jfrog.io/artifactory/default-maven-virtual</url>
+        <name>a0tzrjiviemex-artifactory-primary-0-releases</name>
+        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>a0pmskevvca33-artifactory-primary-0-snapshots</name>
-        <url>https://devops2022.jfrog.io/artifactory/default-maven-virtual</url>
+        <name>a0tzrjiviemex-artifactory-primary-0-snapshots</name>
+        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
