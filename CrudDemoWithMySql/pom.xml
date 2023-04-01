@@ -79,7 +79,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>a0tzrjiviemex-artifactory-primary-0-snapshots</name>
-        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo</url>
+        <url>https://abhisheknilam.jfrog.io/artifactory/maven-demo-1</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
